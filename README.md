@@ -60,3 +60,5 @@ To optimize computing time and generate Agentic reports faster:
 * The second configuration file for modifying the behavior of all agents is not provided at this time.
 * For both domains: Agentic Report generation may take up to 2 minutes
 
+## 🤖 The Activation Process: When AI Agents Come Online
+![agentic_talk](agentic_talk.jpg)
