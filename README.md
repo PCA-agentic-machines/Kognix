@@ -24,7 +24,6 @@ Enable the **AI Agentic Report** to activate intelligent agents that auto-analyz
 8. can you give me full analysis? i wan to see everything which is good for my analysis --If needed, use a pie chart for different distribution visualization.
 9. I want to see sales for all seasons and by all different types of customer
 10. I want see the sales by seasons-- top 5 products-- top 4 stores
-11. sales by seasons..from 2020 to 2022
 
 You can review the Data preview to formulate different types of queries.
 
