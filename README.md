@@ -50,6 +50,24 @@ If you don't want the system to perform Log Transformation, simply type: "dont d
 9. show me trend and box plot of Output Heat Entry Level - jan to april 2020
 10. dont do any processing : 8. april to 15th aug 2021: i want to see box plot for Water Level Volume supply
 
+## E-commerce  Domain
+
+### Example Queries:
+1. I want to see total analysis and chart for Fulfilment, Sales Channel, Category, Size
+2. Show top 5 cities by number of shipments.
+3. Split total orders and revenue by B2B vs regular.
+4. Give me sales by channel — Amazon vs Non-Amazon.
+5. give me total analysis by status,Sales Channel, fulfilment category wise
+6. SKUs with the highest quantity sold
+7. show average revenue per order for Sales Channel
+8. Show total orders for each status like shipped, cancelled, etc
+9. show shipping data top 10 city with shipped order 
+10. sales by category.  top 5 products top 4 category
+11. i want to see the order analysis add Status Shipped - Delivered to Buyer well and Category as well top 20
+12. Compare order counts between Amazon and Merchant fulfillment
+
+You can review the Data preview to formulate different types of queries.
+
 ## AI Agentic Report
 
 To optimize computing time and generate Agentic reports faster:
